@@ -41,7 +41,7 @@ git clone https://github.com/ryoryoryu/Store-project
 2. Navigate into the project directory:
 
 ```bash
-cd python-mini-store
+cd Store-project
 ```
 
 3. Run the main Python script:
